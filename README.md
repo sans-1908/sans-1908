@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning data structures and algorithm...
 - i know languages like C,C++, python
 - i am data science student
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me :
+- lINKEDIN ID-https://www.linkedin.com/in/sanskriti-sharma-406a84225
 
 <!---
 sans-1908/sans-1908 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
