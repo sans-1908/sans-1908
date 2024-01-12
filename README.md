@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/sanskriti-sharma](https://www.linkedin.com/in/sanskriti-sharma-406a84225/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanskriti sharma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sanskriti-sharma-406a84225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanskriti sharma" height="30" width="40" /></a>
 <a href="https://kaggle.com/sanskritisharma19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sanskritisharma19" height="30" width="40" /></a>
 <a href="https://medium.com/@sans19.sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sans19.sharma" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sans1901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sans1901" height="30" width="40" /></a>
