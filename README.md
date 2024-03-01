@@ -5,7 +5,7 @@
  
 - 🔭 I’m currently working as **Software developer intern**
 
-- 🌱 I’m currently learning **React,Javascript,System design**
+- 🌱 I’m currently learning **React,Javascript,GraphQL,Springboot, System design**
 
 - 💬 Ask me about **C++,python,javascript,flutter,html,css,dart**
 
